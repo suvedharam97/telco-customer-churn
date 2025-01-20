@@ -29,3 +29,23 @@ The Customer Churn Prediction Model is designed to help telecom companies identi
 ### Conclusion
 
 The Customer Churn Prediction Model is a powerful tool for telecom companies looking to reduce churn and improve customer satisfaction. By leveraging advanced analytics and machine learning, companies can make data-driven decisions to enhance their customer retention strategies.
+
+### Instructions to Run Streamlit App
+
+To run the Streamlit app for the Customer Churn Prediction Model, follow these steps:
+
+1. **Install Dependencies**: Ensure you have all the required dependencies installed. You can install them using the following command:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2. **Run the Streamlit App**: Navigate to the directory containing the Streamlit app script and run the following command:
+    ```bash
+    streamlit run app.py
+    ```
+
+3. **Access the App**: Open your web browser and go to `http://localhost:8501` to access the Streamlit app.
+
+4. **Interact with the App**: Use the app to input customer data and get churn predictions.
+
+By following these steps, you can easily run and interact with the Streamlit app to predict customer churn.
