@@ -41,7 +41,7 @@ To run the Streamlit app for the Customer Churn Prediction Model, follow these s
 
 2. **Run the Streamlit App**: Navigate to the directory containing the Streamlit app script and run the following command:
     ```bash
-    streamlit run app.py
+    streamlit run what_if_app.py
     ```
 
 3. **Access the App**: Open your web browser and go to `http://localhost:8501` to access the Streamlit app.
